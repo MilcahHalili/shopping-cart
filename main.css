@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  font-family: Helvetica, sans-serif;
+}
+
+html {
+  line-height: 1;
+  font-size: 62.5%;
+}
+
+body {
+  padding: 0;
+}
+
+header {
+  background-color: lavender;
+  font-size: 1.5rem;
+  padding: 1rem;
+  text-align: center;
+}
+
+main {
+  background-color: lavenderblush;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+footer {
+  background-color: lavender;
+  font-size: 1.5rem;
+  padding: 1rem;
+  text-align: center;
+}
